@@ -12,7 +12,7 @@ The purpose of this model is to classify handwritten digits. Using the keras lib
 
 The project was implemented using the Modified National Institute of Standards and Technology (MNIST) handwritten digit dataset. 
 
-This project was implemented on the Kaggle platform. Here's the [link](https://www.kaggle.com/code/jatinmotwani12/implementation-of-vgg16-v2) for the notebook.
+This project was implemented on the Kaggle platform.
 
 ## Training Statistics
 
@@ -27,14 +27,6 @@ Model Training Loss     = 0.008 (Approximately)
 ## Output
 
 <img src = "output.png" width = "500px" title = "Output">
-
-## Team
-
-The project was made possible by the contributions of the members of the RJP Team consisting of:
-
-- [Rishav Verma](https://github.com/bunnyrishav-21)
-- [Jatin Motwani](https://github.com/Jatin-1956)
-- [Rampalli Pranav](https://www.linkedin.com/in/pranav-rampalli-610a3821b/)
 
 ## References
 
